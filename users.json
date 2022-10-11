@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "nome": "Julio",
+    "email": "professor@gmail.com",
+    "senha": "123",
+    "tipo": "professor",
+    "materias":
+    [
+      "geo", "por", "mat"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Caio",
+    "email": "aluno@gmail.com",
+    "senha": "321",
+    "tipo": "aluno",
+    "materias":
+    [
+      "geo", "por", "mat"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Robsu",
+    "email": "robsu@gmail.com",
+    "senha": "666",
+    "tipo": "professor",
+    "materias":
+    [
+      "mat"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Leonsio",
+    "email": "leonsio@gmail.com",
+    "senha": "333",
+    "tipo": "aluno",
+    "materias":
+    [
+      "geo", "mat"
+    ]
+  }
+]
